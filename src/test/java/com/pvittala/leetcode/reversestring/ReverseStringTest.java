@@ -1,5 +1,6 @@
-package com.pvittala.leetcode;
+package com.pvittala.leetcode.reversestring;
 
+import com.pvittala.leetcode.reversestring.ReverseString;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
