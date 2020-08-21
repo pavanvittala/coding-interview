@@ -1,4 +1,4 @@
-package com.pvittala.leetcode;
+package com.pvittala.leetcode.reversestring;
 
 /**
  * LeetCode ReverseString problem.
