@@ -14,8 +14,8 @@ public class FizzBuzz {
      * But for multiples of three it should output “Fizz” instead of the number and for
      * the multiples of five output “Buzz”. For numbers which are multiples of both three
      * and five output “FizzBuzz”.
-     * @param n
-     * @return
+     * @param n number to process up to
+     * @return {@link List} containing the desired output
      */
     public static List<String> fizzBuzz(final int n) {
         List<String> list = new ArrayList<>();
